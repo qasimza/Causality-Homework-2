@@ -1,0 +1,12 @@
+# Homework 2 — Bayesian causal modeling (Q1+)
+# Use Python 3.9+ (create venv: /usr/bin/python3 -m venv .venv && . .venv/bin/activate && pip install -U pip && pip install -r requirements.txt)
+pandas>=1.5
+numpy>=1.22
+matplotlib>=3.5
+scipy>=1.9,<1.13
+pymc>=5.0
+arviz>=0.15
+jax>=0.4
+jaxlib>=0.4
+numpyro>=0.14
+seaborn>=0.12
